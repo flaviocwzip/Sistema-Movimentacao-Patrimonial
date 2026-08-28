@@ -1,0 +1,14 @@
+{
+  "config": {
+    "tipos": ["CPU", "Monitor", "Notebook", "Impressora", "Scanner", "Nobreak", "Outro"],
+    "situacoes": ["Em uso", "Disponível", "Manutenção", "Baixado", "Sucata"],
+    "setores": ["ASTEC", "AGEQ", "HEMORREDE", "Diretoria", "Laboratório", "Recepção", "TI"]
+  },
+  "equipamentos": [],
+  "movimentacoes": [],
+  "seq": {
+    "equipamento": 0,
+    "movimentacao": 0,
+    "operacao": 0
+  }
+}

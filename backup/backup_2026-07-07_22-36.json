@@ -1,0 +1,47 @@
+{
+    "config": {
+        "tipos": [
+            "CPU",
+            "Monitor",
+            "Notebook",
+            "Impressora",
+            "Scanner",
+            "Nobreak",
+            "Outro"
+        ],
+        "situacoes": [
+            "Em uso",
+            "Disponível",
+            "Manutenção",
+            "Baixado",
+            "Sucata"
+        ],
+        "setores": [
+            "ASTEC",
+            "AGEQ",
+            "HEMORREDE",
+            "Diretoria",
+            "Laboratório",
+            "Recepção",
+            "TI"
+        ]
+    },
+    "equipamentos": [
+        {
+            "id": 1,
+            "patrimonio": "u18268",
+            "tipo": "Notebook",
+            "modelo": "78,67",
+            "numeroSerie": "23,756",
+            "setorAtual": "Laboratório",
+            "situacao": "Disponível",
+            "observacao": ""
+        }
+    ],
+    "movimentacoes": [],
+    "seq": {
+        "equipamento": 1,
+        "movimentacao": 0,
+        "operacao": 0
+    }
+}

@@ -1,0 +1,427 @@
+{
+    "config": {
+        "tipos": [
+            "CPU",
+            "Monitor",
+            "Notebook",
+            "Impressora",
+            "Scanner",
+            "Nobreak",
+            "Outro"
+        ],
+        "situacoes": [
+            "Em uso",
+            "Disponível",
+            "Manutenção",
+            "Baixado",
+            "Sucata"
+        ],
+        "setores": [
+            "ASTEC",
+            "AGEQ",
+            "HEMORREDE",
+            "Diretoria",
+            "Laboratório",
+            "TI",
+            "GEIMU",
+            "COLETA",
+            "COINFRA",
+            "ASPLAN",
+            "COTIN",
+            "ALMOXARIFADO",
+            "COLIC",
+            "ALMOXARIFADO -HEMOSE",
+            "COFIN",
+            "COSUP",
+            "c"
+        ]
+    },
+    "equipamentos": [
+        {
+            "id": 1,
+            "patrimonio": "1003695",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64526",
+            "setorAtual": "AGEQ",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 2,
+            "patrimonio": "1003695",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS4Z",
+            "setorAtual": "AGEQ",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 3,
+            "patrimonio": "1003705",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64553",
+            "setorAtual": "AGEQ",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 4,
+            "patrimonio": "1003705",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS43",
+            "setorAtual": "AGEQ",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 5,
+            "patrimonio": "1003706",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64611",
+            "setorAtual": "COINFRA",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 6,
+            "patrimonio": "1003706",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS4M",
+            "setorAtual": "COINFRA",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 7,
+            "patrimonio": "1003707",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64599",
+            "setorAtual": "ASPLAN",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 8,
+            "patrimonio": "1003707",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTSEA",
+            "setorAtual": "ASPLAN",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 9,
+            "patrimonio": "1003711",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS6K",
+            "setorAtual": "COTIN",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 10,
+            "patrimonio": "1003711",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64892",
+            "setorAtual": "COTIN",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 11,
+            "patrimonio": "1003712",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS4T",
+            "setorAtual": "ALMOXARIFADO",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 12,
+            "patrimonio": "1003712",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64572",
+            "setorAtual": "ALMOXARIFADO",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 13,
+            "patrimonio": "1003738",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS6R",
+            "setorAtual": "GEIMU",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 14,
+            "patrimonio": "1003738",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64881",
+            "setorAtual": "GEIMU",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 15,
+            "patrimonio": "1003788",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS50",
+            "setorAtual": "COINFRA",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 16,
+            "patrimonio": "1003788",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG66161",
+            "setorAtual": "COINFRA",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 17,
+            "patrimonio": "1003789",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS6E",
+            "setorAtual": "COINFRA",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 18,
+            "patrimonio": "1003789",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64545",
+            "setorAtual": "COINFRA",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 19,
+            "patrimonio": "1003790",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS67",
+            "setorAtual": "COLIC",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 20,
+            "patrimonio": "1003790",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64534",
+            "setorAtual": "COLIC",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 21,
+            "patrimonio": "1003791",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS53",
+            "setorAtual": "COLIC",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 22,
+            "patrimonio": "1003791",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64838",
+            "setorAtual": "COLIC",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 23,
+            "patrimonio": "PENDENTE-01",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS6M",
+            "setorAtual": "COLETA",
+            "situacao": "Em uso",
+            "observacao": "REMESSA DOS 60"
+        },
+        {
+            "id": 24,
+            "patrimonio": "PENDENTE-02",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64901",
+            "setorAtual": "COLETA",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 25,
+            "patrimonio": "1003796",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTSE2",
+            "setorAtual": "TI",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 26,
+            "patrimonio": "PENDENTE-03",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64584",
+            "setorAtual": "TI",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 27,
+            "patrimonio": "1003795",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS4Q",
+            "setorAtual": "TI",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 28,
+            "patrimonio": "PENDENTE-04",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64549",
+            "setorAtual": "TI",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "patrimonio": "1003698",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64546",
+            "setorAtual": "AGEQ",
+            "situacao": "Em uso",
+            "observacao": "",
+            "id": 29
+        },
+        {
+            "patrimonio": "1003698",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS51",
+            "setorAtual": "AGEQ",
+            "situacao": "Em uso",
+            "observacao": "",
+            "id": 30
+        },
+        {
+            "id": 31,
+            "patrimonio": "1003693",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64585",
+            "setorAtual": "COFIN",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 32,
+            "patrimonio": "1003697",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG66154",
+            "setorAtual": "COFIN",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 33,
+            "patrimonio": "1003699",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64541",
+            "setorAtual": "COFIN",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 34,
+            "patrimonio": "1003692",
+            "tipo": "Monitor",
+            "modelo": "MT-M 12RR – S76100",
+            "numeroSerie": "VAG64564",
+            "setorAtual": "COSUP",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 35,
+            "patrimonio": "1003697",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS6F",
+            "setorAtual": "COFIN",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 36,
+            "patrimonio": "1003692",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS46",
+            "setorAtual": "COSUP",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 37,
+            "patrimonio": "1003699",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS45",
+            "setorAtual": "COFIN",
+            "situacao": "Em uso",
+            "observacao": ""
+        },
+        {
+            "id": 38,
+            "patrimonio": "1003693",
+            "tipo": "CPU",
+            "modelo": "63CF-MAR1-BR",
+            "numeroSerie": "PE0FTS5B",
+            "setorAtual": "COFIN",
+            "situacao": "Em uso",
+            "observacao": ""
+        }
+    ],
+    "movimentacoes": [],
+    "seq": {
+        "equipamento": 38,
+        "movimentacao": 0,
+        "operacao": 0
+    }
+}
